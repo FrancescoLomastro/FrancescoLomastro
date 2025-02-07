@@ -6,6 +6,7 @@ I am Francesco Gregorio Lo Mastro, born in 2001. I'm currently studying for my M
 
 ## Programming Languages
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Haskell](https://img.shields.io/badge/Haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white)
@@ -28,7 +29,8 @@ I am Francesco Gregorio Lo Mastro, born in 2001. I'm currently studying for my M
 ## DB
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+## Other
+![STMCube](https://img.shields.io/badge/-STMCube-03234B?logo=stmicroelectronics&logoColor=white&style=flat-square)
 
 ## How to reach me
 📫 francescogregorio.lomastro@mail.polimi.it. <br><br>
