@@ -37,7 +37,9 @@ English (B2)
 
 ## How to reach me
 📫 francescogregorio.lomastro@mail.polimi.it. <br><br>
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FraLomi) 
+
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-gregorio-lo-mastro-18051934b/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FraLomi)
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
