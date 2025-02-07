@@ -3,6 +3,9 @@
 ## About me 
 I am Francesco Gregorio Lo Mastro, born in 2001. I'm currently studying for my Master Degree in Computer Science Engineering at Politecnico di Milano. I enjoy playing video games and playing the guitar in my free time.
 
+## Languages
+Italian (Native)
+English (B2)
 
 ## Programming Languages
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
